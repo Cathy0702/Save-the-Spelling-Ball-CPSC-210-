@@ -5,7 +5,7 @@ package model;
 public class Background {
 
     private static final int HEIGHT = 601;
-    private static final int WIDTH = 601;
+    private static final int WIDTH = 600;
 
     // EFFECTS: construct a background
     public Background() {
